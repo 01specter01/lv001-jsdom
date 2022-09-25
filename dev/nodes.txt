@@ -3,3 +3,4 @@
 - x create javascript page and connect: console.log
     - x change element text
 - x make a button to change the text 
+- .. change to flashcard app
