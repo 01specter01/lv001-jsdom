@@ -3,4 +3,8 @@
 - x create javascript page and connect: console.log
     - x change element text
 - x make a button to change the text 
-- .. change to flashcard app
+- x change to flashcard app
+    - x on button click
+        - .. hide button
+        - x show answer
+- x change to where button toggels answer on and off

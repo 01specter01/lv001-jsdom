@@ -4,6 +4,10 @@ body {
     font-family: sans-serif;
     padding: 0 1rem;
 }
-.answer {
+
+.hidden {
     display: none;
+}
+.answer {
+    color: yellow;
 }
