@@ -4,7 +4,8 @@
     - x change element text
 - x make a button to change the text 
 - x change to flashcard app
-    - x on button click
-        - .. hide button
-        - x show answer
+- x on button click
 - x change to where button toggels answer on and off
+- x puplish to Netlify
+    - x push to repo
+    - x get account at Netlify
